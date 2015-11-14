@@ -1,6 +1,6 @@
 {
   "name": "qeremy-base64",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Base64 module for Node.js.",
   "license": "MIT",
   "author": "Kerem Güneş <qeremy@gmail.com>",
