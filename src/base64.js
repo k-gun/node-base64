@@ -43,4 +43,7 @@ var Base64 = {
     }
 };
 
+/**
+ * Expose module.
+ */
 module.exports = Base64;
