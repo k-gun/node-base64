@@ -1,6 +1,6 @@
 ## Base64
 
-There is no magic, just a hipster-way approach to base64'ing in Node.js using it's built-in Buffer object.. :sunglasses:
+There is no magic, just a :sunglasses:-way approach to base64'ing in Node.js using it's built-in Buffer object..
 
 ## Install
 
