@@ -2,6 +2,6 @@
   "name": "k-gun-base64",
   "version": "1.0.1",
   "description": "Base64 module for Node.js.",
-  "license": "MIT",
   "author": "Kerem Güneş <k-gun@mail.com>",
+  "license": "MIT"
 }
