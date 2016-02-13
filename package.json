@@ -1,28 +1,7 @@
 {
-  "name": "qeremy-base64",
-  "version": "1.0.0",
+  "name": "k-gun-base64",
+  "version": "1.0.1",
   "description": "Base64 module for Node.js.",
   "license": "MIT",
-  "author": "Kerem Güneş <qeremy@gmail.com>",
-  "homepage": "http://qeremy.com",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/qeremy/node-base64.git"
-  },
-  "keywords": [
-    "base64"
-  ],
-  "engines": {
-    "node": ">= 0.10.25"
-  },
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/qeremy/node-base64/issues"
-  },
-  "directories": {
-    "test": "test"
-  }
+  "author": "Kerem Güneş <k-gun@mail.com>",
 }
