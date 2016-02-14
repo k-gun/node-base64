@@ -1,7 +1,16 @@
 {
-  "name": "k-gun-base64",
-  "version": "1.0.1",
-  "description": "Base64 module for Node.js.",
-  "author": "Kerem Güneş <k-gun@mail.com>",
-  "license": "MIT"
+   "name": "k-gun-base64",
+   "version": "1.0.2",
+   "description": "Base64 module for Node.js.",
+   "homepage": "http://github.com/k-gun/node-base64",
+   "license": "MIT",
+   "authors": [{
+      "name": "Kerem Güneş",
+      "email": "k-gun@mail.com"
+   }],
+   "repository": {
+      "type": "git",
+      "url": "git://github.com/k-gun/node-base64.git"
+   },
+   "keywords": ["base64", "base64 encode", "base64 decode"]
 }
